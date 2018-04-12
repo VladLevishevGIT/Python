@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My first python site</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/main.css')}}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="logo">My web page</h1>
+            <nav>
+                <ul class="menu">
+                    <li><a href="{{ url_for('home') }}">Home</a> </li>
+                    <li><a href="{{ url_for('about') }}">About</a> </li>
+                    <li><a href="{{ url_for('layout') }}">Default</a> </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="container">
+        {%block containt%}
+        {%endblock%}
+    </div>
+</body>
+</html>
