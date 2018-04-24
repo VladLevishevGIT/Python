@@ -4,7 +4,7 @@ import psycopg2
 def create_table():
     conn = psycopg2.connect("dbname='test_db' user='postgres' password='postgres123' host='localhost' port='5432'")
     cur = conn.cursor()
-    cur.execute("CREATE TABLE IF NOT EXISTS store (item TEXT, quantity INTEGER, price REAL)")
+    cur.execute("CREATE TABLE IF NOT EXISTS store (number INTEGER, revision INTEGER, timestamp LONG)")
     conn.commit()
     conn.close()
 
@@ -43,8 +43,8 @@ def update_row(quantity, price, item):
 
 
 # create_table()
-# insert_row("Book 1", 10, 2.5)
-# insert_row("Book 2", 100, 0.3)
+insert_row("Book 2", 10, 2.5)
+insert_row("Book 3", 100, 0.3)
 # print(view_all())
 
 # delete_row("Book 2")
