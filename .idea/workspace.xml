@@ -2,7 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dbce8c3-dda9-48cb-8251-8078302cdce7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/demo1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/demo2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/demo3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/demo4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_1_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_2_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_2_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_3_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_4_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_4_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_5_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_5_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_5_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_5_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_5_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_6_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_7_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_7_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_7_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_8_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/task_9_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/Robot_files/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/all_tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/dummy_viz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/demo1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/demo2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/demo3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/demo4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/demos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/sample1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/sample2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/sample3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/sample4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/samples/sample5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/example1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/example2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/example3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_1_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_1_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_2_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_2_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_2_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_3_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_3_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_4_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_4_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_5_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_5_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_5_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_5_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_5_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_6_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_7_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_7_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_7_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_22.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_27.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_28.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_29.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_30.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_8_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tasks/task_9_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tests/test_basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tests/test_movement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/tools/create_screenshots.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/pyrob/viz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_12.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_19.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_20.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_22.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_23.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_24.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_25.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_27.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_28.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_29.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_30.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_31.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MFTI_Algorithms/Les02_Robot/robot-tasks-master/robot-tasks-master/task_9.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -493,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523873643979</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MFTI - algorithm lesson 2 (ROBOT)">
+      <created>1527000908044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527000908044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -537,7 +672,8 @@
     <MESSAGE value="SQLite DB project - created DB" />
     <MESSAGE value="Postgres DB project - implementation starting (credentials)" />
     <MESSAGE value="Postgres DB project - simple actions with PG db" />
-    <option name="LAST_COMMIT_MESSAGE" value="Postgres DB project - simple actions with PG db" />
+    <MESSAGE value="MFTI - algorithm lesson 2 (ROBOT)" />
+    <option name="LAST_COMMIT_MESSAGE" value="MFTI - algorithm lesson 2 (ROBOT)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
